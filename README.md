@@ -39,7 +39,7 @@ cursor-marketing-automation-template/
 
 ```bash
 # 1. リポジトリをクローン
-$ git clone https://github.com/yourname/cursor-marketing-automation-template.git
+$ git clone git@github.com:kagehero/marketing_automation_template.git
 $ cd cursor-marketing-automation-template
 
 # 2. 必要なパッケージをインストール
@@ -141,4 +141,4 @@ steps:
 MIT
 
 ## 🙋‍♂️ お問い合わせ
-このリポジトリに関するご質問・導入サポートは [your-email@example.com] までご連絡ください。
+このリポジトリに関するご質問・導入サポートは [nightfurry2345@gmail.com] までご連絡ください。
