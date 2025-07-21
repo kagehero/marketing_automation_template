@@ -1,0 +1,8 @@
+version: 1.0
+steps:
+  - name: Generate Campaign Copy
+    run: python scripts/render_templates.py
+    output: output/copy_generation.md
+
+  - name: Review Generated Copy in Cursor
+    open: output/copy_generation.md
